@@ -1,4 +1,4 @@
-module sharing
+module github.com/leo3838ok/go-sharing-01
 
 go 1.14
 

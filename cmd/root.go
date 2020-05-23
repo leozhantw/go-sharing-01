@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"sharing/utils/errors"
+	"github.com/leo3838ok/go-sharing-01/utils/errors"
 )
 
 var rootCmd = &cobra.Command{
