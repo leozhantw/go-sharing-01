@@ -6,7 +6,7 @@ func TestAdd(t *testing.T) {
 	cases := []struct {
 		giveA, giveB, want int
 	}{
-		{1, 2 ,3},
+		{1, 2, 3},
 		{0, 1, 1},
 	}
 	for _, c := range cases {
